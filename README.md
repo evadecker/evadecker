@@ -5,4 +5,4 @@ I've been building things for the web since 2007. I like CSS. :)
 
 🌈 Design case studies and cat pics at [evadecker.com](https://evadecker.com).  
 📄 Business stuff at [LinkedIn](https://linkedin.com/in/evadecker) or [download my resume](https://evadecker.com/eva-decker-resume.pdf).  
-💌 Questions and hellos at [itsevadecker@gmail.com](mailto:itsevadecker@gmail.com).
+💌 Questions and hellos at [hey@evadecker.com](mailto:hey@evadecker.com).
