@@ -1,8 +1,9 @@
-## I'm Eva, a product designer and frontend engineer.
-![status](https://img.shields.io/badge/status-tired-c70000) ![pronouns](https://img.shields.io/badge/pronouns-she/they-8A2BE2) ![pronunciation](https://img.shields.io/badge/pronunciation-AY--vuh-00a602)
 
-I've been building things for the web since 2007. I like CSS. :)
+# Eva makes things for the web. 💿💻🌸
+![pronunciation](https://img.shields.io/badge/pronunciation-AY--vuh-00a602) ![pronouns](https://img.shields.io/badge/pronouns-she/they-8A2BE2)  ![status](https://img.shields.io/badge/status-tired-c70000)
 
-🌈 Design case studies and cat pics at [evadecker.com](https://evadecker.com).  
-📄 Business stuff at [LinkedIn](https://linkedin.com/in/evadecker).  
-💌 Questions and hellos at [hey@evadecker.com](mailto:hey@evadecker.com).
+Product design work and generative art explorations:  
+🦋 **[eva.town](https://eva.town)** 🦋
+
+Questions and hellos:  
+💌 **[hey@evadecker.com](mailto:hey@evadecker.com)** 💌
